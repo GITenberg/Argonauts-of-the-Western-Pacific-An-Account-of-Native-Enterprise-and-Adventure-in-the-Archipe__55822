@@ -1,0 +1,41 @@
+_repo: Argonauts-of-the-Western-Pacific-An-Account-of-Native-Enterprise-and-Adventure-in-the-Archipe__55822
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Frazer, James George
+    aliases:
+    - Frazer, Sir James George
+    - Frazer, J. G. (James George)
+    birthdate: 1854
+    deathdate: 1941
+    gutenberg_agent_id: '1241'
+    url: http://www.gutenberg.org/2009/agents/1241
+    wikipedia: http://en.wikipedia.org/wiki/James_Frazer
+creator:
+  author:
+    agent_name: Malinowski, Bronislaw
+    aliases:
+    - Malinovski, Bronislav
+    - Malinowski, B. (Bronislaw)
+    - Malinowski, Bronislaus
+    birthdate: 1884
+    deathdate: 1942
+    gutenberg_agent_id: '45006'
+    url: http://www.gutenberg.org/2009/agents/45006
+description: ''
+gutenberg_issued: '2017-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55822'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Argonauts of the Western Pacific
+
+  An Account of Native Enterprise and Adventure in the
+
+  Archipelagoes of Melanesian New Guinea'
+url: http://www.gutenberg.org/ebooks/55822
